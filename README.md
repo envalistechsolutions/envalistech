@@ -5,12 +5,11 @@
 ### *Your IT Department — Without the Full-Time Hire*
 
 [![Website](https://img.shields.io/badge/Website-envalistech.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.envalistech.com/)
-[![Phone](https://img.shields.io/badge/Call-+1%20(647)%20575--8032-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+16475758032)
 [![Email](https://img.shields.io/badge/Email-contact@envalistech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@envalistech.com)
+[![Location](https://img.shields.io/badge/Location-Toronto%2C%20ON-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Toronto,ON)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-envalis--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/envalis-tech)
 [![Facebook](https://img.shields.io/badge/Facebook-envalistech-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576426448822)
 [![Instagram](https://img.shields.io/badge/Instagram-@envalistech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/envalistech/)
-[![Location](https://img.shields.io/badge/Location-Toronto%2C%20ON-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Toronto,ON)
 
 </div>
 
